@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+}
+
+.baner {
+    background-color: #1c59a7;
+    color: white;
+    text-align: center;
+    height: 80px;
+}
+
+.panelLewy {
+    background-color: #3a70b5;
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+
+.panelSrodkowy {
+    background-color: #5a8ac8;
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+
+.panelPrawy {
+    background-color: #86acdd;
+    text-align: center;
+    width: 34%;
+    height: 200px;
+    float: left;
+}
+
+.panelDolny {
+    background-color: #86acdd;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    float: left;
+}
+
+.stopka {
+    background-color: #1c59a7;
+    color: white;
+}
+
+.panelPrawy a {
+    background-color: yellow;
+    color: blue;
+    padding: 10px;
+}
+
+.baner span {
+    font-size: xx-large;
+    font-weight: bold;
+}
